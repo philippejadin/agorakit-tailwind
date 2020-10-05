@@ -1,0 +1,15 @@
+{
+  "name": "tailwind-agorakit",
+  "version": "1.0.0",
+  "description": "Testing tailwind for Agorakit's use",
+  "main": "tailwind.config.js",
+  "dependencies": {
+    "tailwindcss": "^1.8.10"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
